@@ -33,6 +33,10 @@ The Log4Shell vulnerability (CVE-2021-44228) is a critical remote code execution
 Resource: National Vulnerability Database - CVE-2021-44228 - https://nvd.nist.gov/vuln/detail/CVE-2021-44228
 ## Data
 
+A Software Bill of Materials (SBOM) is a formal, structured inventory of software components and dependencies used to build an application, functioning like an ingredient list for software. At a minimum, an SBOM should contain data fields such as supplier name, component name, version string, component unique identifier, dependency relationship, and the author of the SBOM data.
+
+Resource: NTIA - Minimum Elements for a Software Bill of Materials - https://www.ntia.doc.gov/files/ntia/publications/sbom_minimum_elements_report.pdf
+
 ## Misconception in My Track
 
 ## Open Question
