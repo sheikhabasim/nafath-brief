@@ -17,6 +17,9 @@ Adversarial attacks on machine learning systems primarily include evasion attack
 Resource: NIST AI 100-1: Adversarial Machine Learning Taxonomy - https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf
 ## Mobile
 
+The OWASP Mobile Application Security Verification Standard (MASVS) is a comprehensive security standard for mobile app development and testing. It is used to verify the security of a mobile app by establishing baseline security requirements across reverse engineering resistance, authentication mechanisms, and secure data storage.
+
+Resource: OWASP Mobile Application Security Verification Standard - https://github.com/OWASP/owasp-mastg
 ## Networking
 
 ## Cybersecurity
