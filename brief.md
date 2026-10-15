@@ -42,3 +42,5 @@ Resource: NTIA - Minimum Elements for a Software Bill of Materials - https://www
 A common misconception in cybersecurity is that critical software vulnerabilities like Log4Shell (CVE-2021-44228) can be completely mitigated simply by deploying perimeter firewalls or web application firewalls (WAFs). In reality, because Log4j processes input logs deep within internal software logic, perimeter defenses cannot guarantee full protection against obfuscated payloads. As detailed in the NIST NVD vulnerability analysis, complete resolution requires updating the library or applying configuration changes that directly disable vulnerable lookup features.
 
 ## Open Question
+
+I would like to explore how automated software supply chain analysis tools can be seamlessly integrated into continuous integration/continuous deployment (CI/CD) pipelines to detect vulnerabilities and missing SBOM components before production deployment.
