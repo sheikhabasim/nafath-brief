@@ -28,6 +28,9 @@ Resource: RFC 6480 - An Infrastructure to Support Secure Internet Routing - http
 
 ## Cybersecurity
 
+The Log4Shell vulnerability (CVE-2021-44228) is a critical remote code execution flaw in the Apache Log4j logging library. It was rated with the maximum severity score of 10.0 because Log4j is ubiquitous in enterprise Java applications, and the vulnerability could be triggered easily via untrusted string inputs, allowing attackers to take full control of affected servers. It was fixed by releasing patches that disable JNDI lookups by default and upgrading to sanitized versions of the library.
+
+Resource: National Vulnerability Database - CVE-2021-44228 - https://nvd.nist.gov/vuln/detail/CVE-2021-44228
 ## Data
 
 ## Misconception in My Track
