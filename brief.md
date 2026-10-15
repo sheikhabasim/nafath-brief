@@ -12,6 +12,9 @@ Resource: The Twelve-Factor App - Factor III: Config - https://12factor.net/conf
 
 ## AI
 
+Adversarial attacks on machine learning systems primarily include evasion attacks, data poisoning, model extraction, and membership inference. Evasion attacks manipulate inputs at inference time to cause misclassification, whereas data poisoning corrupts training datasets to inject backdoors or degrade overall model accuracy.
+
+Resource: NIST AI 100-1: Adversarial Machine Learning Taxonomy - https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf
 ## Mobile
 
 ## Networking
