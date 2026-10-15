@@ -22,6 +22,10 @@ The OWASP Mobile Application Security Verification Standard (MASVS) is a compreh
 Resource: OWASP Mobile Application Security Verification Standard - https://github.com/OWASP/owasp-mastg
 ## Networking
 
+BGP route hijacking redirects internet traffic by maliciously or accidentally announcing unauthorized IP route prefixes, diverting data flows through illegitimate autonomous systems. RPKI (Resource Public Key Infrastructure) prevents this by using cryptographic certificates to validate legitimate IP address ownership, though it does not protect against path interception or internal router compromise.
+
+Resource: RFC 6480 - An Infrastructure to Support Secure Internet Routing - https://www.rfc-editor.org/rfc/rfc6480
+
 ## Cybersecurity
 
 ## Data
